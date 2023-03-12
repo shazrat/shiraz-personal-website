@@ -1,0 +1,10 @@
+.Welcome {
+  border: 2px red dotted;
+  display: flex;
+  background-color: rgb(64, 66, 93);
+  color: white;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+  font-size: 5vmin
+}
